@@ -1,6 +1,6 @@
 # Multi-Area OSPF + SSH
 
-<img width="649" height="421" alt="ospf topology" src="https://github.com/user-attachments/assets/9a8889c6-9896-4652-95c7-c7685e36ede9" />
+<img width="356" height="284" alt="multi-area ospf + ssh" src="https://github.com/user-attachments/assets/2f80910b-3106-4d38-b08b-8244de06bece" />
 
 ## Objective
 The goal of this lab is to configure OSPF routing across multiple areas and enable secure remote management using SSH. This lab includes three routers and two PCs, simulating a multi-area network environment with secure administration.
